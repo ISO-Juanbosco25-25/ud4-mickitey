@@ -1,6 +1,6 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Razvan Andrés Somesan
 ## 🖥️ Equipo:
 
 ---
@@ -26,16 +26,15 @@ Las mejoras deben ser:
 
 📌 ¿Qué mejorarías?
 (Describe el cambio que harías)
-
+Mas el orden de colocar las componentes, ya que la RAM por ejemplo mucha gente lo pone de los primeros pasos, yo lo he puesto de penultimo. Y tambien por ejemplo con el problema que tuve con la fuente de poder, que no podia meterla si estaban las disqueteras ya conectadas
 📌 ¿Por qué?
-(Explica el motivo)
+Ya que es importante seguir un orden ya puesto para no tener errores y perder tiempo
 
 📌 ¿Cómo lo harías mejor?
-(Explica el proceso correcto)
+Planificar mejor el montaje
 
 📌 ¿Qué beneficio tiene?
-(Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
-
+Evitar errores y ahorrar tiempo
 ---
 
 # 🟢 MEJORA 2
