@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Razvan Andrés Somesan
 ## 🖥️ Equipo:
 
 ---
@@ -23,45 +23,45 @@ Debes documentar al menos **3 errores**:
 # 🔴 ERROR 1
 
 📌 Descripción:
-(¿Qué ha ocurrido?)
+No conectar bien el panel frontal
 
 📌 Tipo:
 (Real / Simulado)
-
+Real
 📌 Fase del montaje:
 (Ejemplo: instalación de RAM, cableado, etc.)
-
+En la parte del cableado
 📌 Causa:
 (¿Por qué ocurre?)
-
+Ocurrio por falta de experiencia
 📌 Consecuencia:
 (¿Qué problema provoca?)
-
+Que los botones principales del ordenador no funcionen, haciendo que no funcionen
 📌 Solución aplicada o propuesta:
 (¿Cómo se soluciona?)
-
+La solucion fue simplemente asegurarse de que estaba todo bien colocado ayudandome de una imagen
 📌 ¿Cómo prevenirlo?
 (Qué harías para evitarlo)
-
+Guiarme de una imagen
 📸 Evidencia (si aplica):
-
+No tengo evidencia
 ---
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción: Al terminar de montar las disqueteras, no podia meter la fuente de poder, haciendo que tenga que volver a desmonatarlas.
 
-📌 Tipo:
+📌 Tipo: Real
 
-📌 Fase del montaje:
+📌 Fase del montaje: Fuente de poder
 
-📌 Causa:
+📌 Causa: Mala organización
 
-📌 Consecuencia:
+📌 Consecuencia: Que la fuente de poder no entraba si estaban las disqueteras metidas ya
 
-📌 Solución:
+📌 Solución: Desmontar las disqueteras otra vez
 
-📌 Prevención:
+📌 Prevención: Tener mejor organización
 
 📸 Evidencia:
 
@@ -69,19 +69,19 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: No poner la RAM en dual channel
 
-📌 Tipo:
+📌 Tipo: Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: RAM
 
-📌 Causa:
+📌 Causa: No colocar la memoria RAM con un espacio entre ellas
 
-📌 Consecuencia:
+📌 Consecuencia: No aprovechar la potencia de la RAM
 
-📌 Solución:
+📌 Solución: Dejar un espacio de zocalo en la RAM
 
-📌 Prevención:
+📌 Prevención: Informarse antes de colocar la RAM
 
 📸 Evidencia:
 
@@ -90,7 +90,8 @@ Debes documentar al menos **3 errores**:
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
+- El mas grave es el panel frontal, ya que fue un error bastante grande haciendo que no pueda encender el ordenador
 
 - ¿Qué error es más común en principiantes?
-
-- ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+Equivocarse entre conectores o no meter la RAM con dual channel
+- ¿Qué has aprendido sobre la importancia de montar correctamente un equipo? Que hay muchos detalles que hay que tener en cuenta para aprovechar bien el ordenador
