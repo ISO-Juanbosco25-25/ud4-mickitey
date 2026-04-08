@@ -27,21 +27,35 @@ No conectar bien el panel frontal
 
 📌 Tipo:
 (Real / Simulado)
+
 Real
+
 📌 Fase del montaje:
 (Ejemplo: instalación de RAM, cableado, etc.)
+
 En la parte del cableado
+
 📌 Causa:
+
 (¿Por qué ocurre?)
+
 Ocurrio por falta de experiencia
 📌 Consecuencia:
+
 (¿Qué problema provoca?)
+
 Que los botones principales del ordenador no funcionen, haciendo que no funcionen
+
 📌 Solución aplicada o propuesta:
+
 (¿Cómo se soluciona?)
+
 La solucion fue simplemente asegurarse de que estaba todo bien colocado ayudandome de una imagen
+
 📌 ¿Cómo prevenirlo?
+
 (Qué harías para evitarlo)
+
 Guiarme de una imagen
 📸 Evidencia (si aplica):
 No tengo evidencia
