@@ -40,32 +40,38 @@ Evitar errores y ahorrar tiempo
 # 🟢 MEJORA 2
 
 📌 ¿Qué mejorarías?
-
+Informarme mejor antes de poner los conectores
 📌 ¿Por qué?
-
+Ya que si pones mal un conector puedes inutilizar un componente 
 📌 ¿Cómo lo harías mejor?
-
+Guiandome con imagenes o buscando mas informacion de los diferentes cables
 📌 Beneficio:
 
+Evitar errores 
 ---
 
 # 🟢 MEJORA 3
 
 📌 ¿Qué mejorarías?
+Mas planificacion antes de montar un ordenador
 
 📌 ¿Por qué?
+Porque se pierde mucho tiempo y se generan muchas mas dudas que si se informa antes
 
 📌 ¿Cómo lo harías mejor?
+Informandome con mi guia de montaje
 
 📌 Beneficio:
-
+Mejor valoracion del tiempo y menos dudas
 ---
 
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Crees que montar un equipo requiere experiencia? ¿Por qué?
+  Si, ya que cuantos mas ordenadores hayas montado mas automatizados te salen los procesos, sin tener que buscar información o tardar más.
 
 - ¿Qué harías diferente si tuvieras que montar otro equipo desde cero?
+  Ver guías en internet
 
 - ¿Te ves capaz de montar un equipo tú solo/a? Justifica tu respuesta.
-
+Despues de montar este ordenador he perdido mas miedo al tocar mi ordenador de casa, haciendo que le haya hecho yo el mantenimiento a mi ordenador de casa
