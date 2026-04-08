@@ -39,9 +39,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧩 3. MONTAJE DE COMPONENTES
 
-- 
-- 
-- 
+- Tener cuidado con los pines tanto de la CPU, GPU y de la RAM para no doblarlos
+- Tener cuidado con la pasta termica para que no caiga en la placa base
+- No manipular con demasiada fuerza los componentes para no hacer daño
 
 💡 Ejemplo: no forzar los componentes al instalarlos
 
@@ -49,9 +49,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🔌 4. CONEXIONES Y CABLEADO
 
-- 
-- 
-- 
+- Tener cuidado al desconectar cables para no romperlos
+- Siempre quitar los cables desde la cabeza, no desde la mitad del cable ya que habra que hacer mucha mas fuerza y se pueden romper
+- Buscar información de los cables que no estes seguro de donde van
 
 💡 Ejemplo: comprobar todas las conexiones antes de encender
 
@@ -59,9 +59,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🌡️ 5. ORGANIZACIÓN Y VENTILACIÓN
 
-- 
-- 
-- 
+- Poner los ventiladores en su direccion correcta
+- Limpiar los ventiladores con polvo
+- Tener ordenados los componentes para que haya mas espacio
 
 💡 Ejemplo: ordenar los cables para facilitar el flujo de aire
 
@@ -69,9 +69,9 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 🧠 6. COMPROBACIONES FINALES
 
-- 
-- 
-- 
+- Revisar que los componentes estan bien conectados
+- Revisar que no sobran cables
+- Revisar que esta todo bien atornillado
 
 💡 Ejemplo: revisar que todo está bien conectado antes del primer arranque
 
@@ -79,8 +79,8 @@ Completa los siguientes apartados con buenas prácticas que has aplicado o que c
 
 # 💼 7. ACTITUD PROFESIONAL
 
-- 
-- 
+- Siempre tener una espacio de trabajo ordenado
+- Cuidar de los componentes
 - 
 
 💡 Ejemplo: trabajar con orden, limpieza y cuidado del material
